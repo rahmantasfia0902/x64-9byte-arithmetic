@@ -131,11 +131,10 @@ make
 ## Screenshots
 
 ### Build Process
-![Terminal showing compilation commands and output](compilation_commands.png)
+![Terminal showing compilation commands and output](screenshots/compilation_commands.png)
 
 ### Test Execution - Overview
-![all test results]
-(screenshots/all_tests.png)
+![all test results](screenshots/all_tests.png)
 
 ### Test Execution - Overflow Cases
 ![Test 2 showing overflow](screenshots/test2_overflow.png)
